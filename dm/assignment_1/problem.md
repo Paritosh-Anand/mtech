@@ -41,3 +41,21 @@ You will find a subset of the insurance provider data along with PCP changes. Th
 * Building a Predictive Model    (Which features decide attrition?)
 * Evaluate the model.
 * Refine the model, as appropriate
+
+The students need to 
+a)	Select a method for performing the analytic task
+b)	Preprocess the data to enhance quality
+c)	Carry out descriptive summarization of data and make observations
+d)	Identify relevant, irrelevant attributes for building model. 
+e)	Perform appropriate data transformations with justifications
+f)	Generate new features if needed
+g)	Carry out the chosen analytic task. Show results including intermediate results, as needed
+h)	Evaluate the solutions
+i)	Look for refinement opportunities
+
+Following are some points for you to take note of, while doing the assignment:
+* Prepare a Report that will supplement the submitted codebase.  
+* State all your assumptions clearly
+* List all intermediate steps and learnings
+* Make the report structured and readable.
+
