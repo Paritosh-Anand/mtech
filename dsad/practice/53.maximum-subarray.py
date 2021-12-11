@@ -3,6 +3,7 @@
 #
 # [53] Maximum Subarray
 #
+from typing import Optional, List
 
 # @lc code=start
 class Solution:
